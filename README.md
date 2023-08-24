@@ -1,2 +1,3 @@
 # college22
-my first repository 
+my first git repository 
+author - abhishek teli
